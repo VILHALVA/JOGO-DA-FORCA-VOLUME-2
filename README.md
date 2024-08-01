@@ -7,7 +7,10 @@
 Este programa implementa o clássico jogo da forca em Python. Ele carrega uma palavra aleatória de um arquivo chamado "WORD.txt", inicializa uma lista para armazenar as letras acertadas, e pede ao usuário para adivinhar letras até que ele acerte todas as letras ou atinja o número máximo de erros permitidos (7 erros). O jogo exibe mensagens de abertura, vitória ou derrota, desenha uma forca conforme o número de erros e revela a palavra secreta quando o jogador perde. O usuário pode tentar adivinhar letras, e o jogo fornece feedback sobre as letras corretas e o progresso.
 
 ## EXECUTANDO O JOGO:
-1. Execute o código em um ambiente Python.
+1. Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 2. O jogo será iniciado e você verá a mensagem de abertura.
 3. Uma palavra será escolhida aleatoriamente do arquivo de palavras `WORD.txt`.
 4. Você verá uma linha de underscores representando as letras da palavra a ser adivinhada.
