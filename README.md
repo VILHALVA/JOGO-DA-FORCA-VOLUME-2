@@ -24,7 +24,14 @@ python CODIGO.py
 
 ## SOBRE O EXECUTAVEL:
 ### 1. EXECUTANDO:
-- Este arquivo executável está disponível no diretório `./APP`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente.
+   * O executável gerado está disponível apenas para sistemas **Windows x64** e pode ser encontrado no diretório:
+   ```
+   ./APP
+   ```
+
+   * Para executá-lo, basta dar dois cliques. Ele é especialmente útil em máquinas onde o **Python não está instalado**.
+   * Trata-se da **mesma aplicação contida no arquivo `./CODIGO/CODIGO.py`**, porém empacotada de forma independente.
+   * Se necessário, você pode recompilar o executável a qualquer momento.
 
 ### 2. GERANDO:
    **1. Instalação do [PyInstaller:](https://pyinstaller.org/en/stable/)**
