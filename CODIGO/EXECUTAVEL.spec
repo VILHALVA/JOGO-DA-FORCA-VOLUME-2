@@ -1,6 +1,3 @@
-# -*- mode: python ; coding: utf-8 -*-
-
-
 a = Analysis(
     ['CODIGO.py'],
     pathex=[],
@@ -22,7 +19,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='JOGO DA FORCA 2',
+    name='JOGO DA FORCA - VOLUME 2',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

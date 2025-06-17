@@ -45,7 +45,7 @@ Este programa implementa o clássico jogo da forca em Python. Ele carrega uma pa
    * Se necessário, você pode recompilar o executável a qualquer momento.
 
 ### 2. GERANDO:
-> **IMPORTANTE:** Antes de gerar o novo `executável`, certifique-se de excluir o arquivo `./APP/JOGO DA FORCA 2.exe`.
+> **IMPORTANTE:** Antes de gerar o novo `executável`, certifique-se de excluir o arquivo `./APP/JOGO DA FORCA - VOLUME 2.exe`.
 
    **1. Instalação do [PyInstaller:](https://pyinstaller.org/en/stable/)**
    - Certifique-se de ter o PyInstaller instalado. Se não tiver, instale usando o comando abaixo:
@@ -60,7 +60,7 @@ Este programa implementa o clássico jogo da forca em Python. Ele carrega uma pa
    pyinstaller EXECUTAVEL.spec
    ```
 
-   - O arquivo `JOGO DA FORCA 2.exe` será criado dentro da pasta `./CODIGO/dist`.
+   - O arquivo `JOGO DA FORCA - VOLUME 2.exe` será criado dentro da pasta `./CODIGO/dist`.
 
    - Após a geração, você pode mover o executável para `./APP` e remover as pastas temporárias `./CODIGO/build` e `./CODIGO/dist`.
 
